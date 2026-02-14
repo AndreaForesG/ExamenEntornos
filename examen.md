@@ -5,4 +5,6 @@ Respuesta:
 <<<<<<< HEAD
 Pelicula favorita: Mamma mia
 Titanic
+<<<<<<< HEAD
 Fallout
+Django
