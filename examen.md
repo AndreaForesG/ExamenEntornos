@@ -1,7 +1,9 @@
 # Examen Git - Conflictos
 
 ## Ejercicio 1
+
 Respuesta:
 titanic
-django
+
+jurasic
 
